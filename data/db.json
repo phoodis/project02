@@ -1,0 +1,65 @@
+{
+    "students": [
+      {
+        "id": "6630250371",
+        "name": "ภูดิศ โภคามาตย์",
+        "campus": "มหาวิทยาลัยเกษตรศาสตร์ ศรีราชา",
+        "year": "2",
+        "faculty": "วิทยาศาสตร์",
+        "school": "โรงเรียนบางบ่อวิทยาคม",
+        "picture": "profile1.jpg"
+      }
+    ],
+    
+    "Grades": [
+      {
+        "id":"01417111",
+        "name":"calculus I",
+        "credit": "3",
+        "grade": "W"
+      },
+      {
+        "id":"01999021",
+        "name":"Thai Language for Communication",
+        "credit": "3",
+        "grade": "C+"
+      },
+      {
+        "id":"01418141",
+        "name":"Intellectual Property and Professional Ethics",
+        "credit": "3", 
+        "grade": "D+"
+      },
+      {
+        "id":"01418111",
+        "name":"Introduction to Computer Science",
+        "credit": "3",
+        "grade":"D+"
+      },
+      {
+        "id":"01999111",
+        "name":"Knowledge of the Land",
+        "credit": "2",
+        "grade": "A"
+      },
+      {
+        "id":"01355101",
+        "name":"English for Everyday Life",
+        "credit": "3",
+        "grade": "B+"
+      },
+      {
+        "id":"03751112",
+        "name":"Social and Politics",
+        "credit": "3",
+        "grade": "C+"
+      },
+      {
+        "id":"01418112",
+        "name":"Findamental Programming Comcepts",
+        "credit": "3",
+        "grade":"C"
+      }
+    ]
+  }
+  
