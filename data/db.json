@@ -1,5 +1,5 @@
 {
-    "students": [
+    "Students": [
       {
         "id": "6630250371",
         "name": "ภูดิศ โภคามาตย์",
@@ -7,7 +7,7 @@
         "year": "2",
         "faculty": "วิทยาศาสตร์",
         "school": "โรงเรียนบางบ่อวิทยาคม",
-        "picture": "profile1.jpg"
+        "image": "/images/nisitPic.jpg"
       }
     ],
     

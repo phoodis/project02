@@ -1,6 +1,6 @@
 <template>
   <div class="home-container">
-    <h1>This is my home page</h1>
+    <h1 class="home-header">This is my home page</h1>
   </div>
 </template>
 
@@ -10,6 +10,6 @@
   };
   </script>
 
-<style>
+<style scoped>
 
 </style>

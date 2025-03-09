@@ -5,17 +5,24 @@ import HomeView from './views/HomeView.vue';
 
 <template>
   <div class="header">
-    <ul>
-      <li><RouterLink to="/">HOME</RouterLink></li>
-      <li><RouterLink to="/AboutView">ABOUT</RouterLink></li>
-      <li><RouterLink to="/GradeView">GRADE</RouterLink></li>
+    <ul class="nav-list">
+      <li class="nav-item"><RouterLink to="/">HOME</RouterLink></li>
+      <li class="nav-item"><RouterLink to="/AboutView">ABOUT</RouterLink></li>
+      <li class="nav-item"><RouterLink to="/GradeView">GRADE</RouterLink></li>
     </ul>
   </div>
   
   <RouterView />
 </template>
 
+<style scoped>
+.nav-list {
+  margin: 0;
+  padding: 0;
+}
 
-<style>
-/* Add your styles here */
+.nav-item {
+  display: inline;
+  margin-right: 10px;
+}
 </style>

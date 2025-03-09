@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Grades List</h1>
+    <h1 class="grade-header">Grades List</h1>
     <ul>
       <li v-for="grade in Grades" :key="grade.id">
         {{ grade.name }} ---- {{ grade.grade }}
@@ -33,8 +33,8 @@ export default {
 };
 </script>
 
-<style>
-h1 {
-  color: blue;
+<style scoped>
+.grade-header {
+  color: rgb(0, 0, 0);
 }
 </style>
